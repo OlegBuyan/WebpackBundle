@@ -11,7 +11,7 @@ module.exports = {
   target: 'web',
   entry: {
     main: './index.js',
-    analytics: './analytics.js',
+    // analytics: './analytics.js',
   },
   output: {
     filename: '[name].[contenthash].js',
